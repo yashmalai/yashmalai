@@ -1,4 +1,8 @@
-## Hi there 👋
+## Yasha not lava
+
+![Yasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashmalai\&theme=tokyonight)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmalai&layout=compact)
+
 
 <!--
 **yashmalai/yashmalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
